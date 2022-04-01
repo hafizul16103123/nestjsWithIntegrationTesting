@@ -1,0 +1,6 @@
+1.mongoose connection
+2.auth with user CRUD
+3.e2e testing
+4.react frontend
+5.swagger*
+6.env*
